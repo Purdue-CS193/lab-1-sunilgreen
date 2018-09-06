@@ -1,8 +1,8 @@
 # Sunil Green's first CS193 Lab
-### Markdown
--The dining courts
--The opportunities
--The sense of community
+
+- The dining courts
+- The opportunities
+- The sense of community
 
 
 ## Welcome to GitHub Pages
