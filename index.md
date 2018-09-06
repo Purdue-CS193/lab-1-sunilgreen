@@ -1,3 +1,10 @@
+# Sunil Green's first CS193 Lab
+
+-The dining courts
+-The opportunities
+-The sense of community
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,10 +24,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
-Here is my **edit**1
-# Maybe a Header
-
 
 1. Numbered
 2. List
